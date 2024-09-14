@@ -2,9 +2,9 @@
 Technical Skills: Python, Bash, XML, HTML5/CSS, C++  
 ## Education
 
-    M.D., NLP | Institut National des Langues et Civilisations Orientales (December 2024)
-    B.S., Mandarin and NLP | Institut National des Langues et Civilisations Orientales (June 2023)
-    B.S., Chinese Medecine | Nanjing University of Chinese Medecine (June 2019, unfinished due to COVID-19 pandemic)
+    - M.D., NLP | Institut National des Langues et Civilisations Orientales (December 2024)
+    - B.S., Mandarin and NLP | Institut National des Langues et Civilisations Orientales (June 2023)
+    - B.S., Chinese Medecine | Nanjing University of Chinese Medecine (June 2019, unfinished due to COVID-19 pandemic)
 
 ## Work Experience
 
