@@ -12,3 +12,5 @@ Technical Skills: Python, Bash, XML, HTML5/CSS, C++
 
 **Expert in Chinese linguistics @ Open Bee (Summer 2021)**  
 - Traditional and simplified Chinese OCR expertise.
+
+![profile picture](assets/img/headshot_circle.jpg)
