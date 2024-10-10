@@ -18,4 +18,8 @@ During my academic studies, I first developed a deep interest in Mandarin and Ch
 **Expert in Chinese linguistics @ Open Bee (Summer 2021)**  
 - Traditional and simplified Chinese OCR expertise.
 
+### Contacts
+Email : guilhem.schlosser@gmail.com  
+Linkedin : https://www.linkedin.com/in/guilhem-schlosser-88a5b31b7/  
+
 Feel free to contact me for further information about my experience, skills, or projects.
