@@ -1,6 +1,6 @@
 # NLP Student  
 Technical Skills: Python, Bash, XML, HTML5/CSS, C++  
-Machine Learning: Pandas, Numpy,  Scikit-Learn, Matplotlib, HuggingFace  
+Machine Learning: Pandas, Numpy, Scikit-Learn, Matplotlib, HuggingFace, Pytorch  
 Languages Spoken : French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
 ## Resume
