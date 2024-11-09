@@ -21,6 +21,6 @@ During my academic studies, I first developed a deep interest in Mandarin and Ch
 
 ### Contacts
 Email : guilhem.schlosser@gmail.com  
-Linkedin : https://www.linkedin.com/in/guilhem-schlosser-88a5b31b7/  
+Linkedin : [click here to access to my linkedin profil](https://www.linkedin.com/in/guilhem-schlosser-88a5b31b7/)  
 
 Feel free to contact me for further information about my experience, skills, or projects.
