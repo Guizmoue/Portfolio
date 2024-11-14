@@ -1,12 +1,6 @@
 title: Guilhem SCHLOSSER
 logo: /assets/img/headshot_circle.jpg
 description: NLP Developer
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
-email : guilhem.schlosser@gmail.com
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/guilhem-schlosser-88a5b31b7/
-  - name: GitHub
-    url: https://github.com/Guizmoue
 github_profile_url: https://github.com/Guizmoue
