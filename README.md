@@ -7,10 +7,10 @@ Languages Spoken : French (Native), English (CEFR-B2), Mandarin (HSK 5)
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in NLP, at the intersection of linguistics and technology.
 
 ## Education  
-- Master Degree, NLP | Institut National des Langues et Civilisations Orientales, Paris - France (Currently in second year of Master's Degree)
-- Bachelor Degree, Mandarin and NLP | Institut National des Langues et Civilisations Orientales, Paris - France (Graduate : 2023)
-- Bachelor Degree, Chinese Medecine | Nanjing University of Chinese Medecine, Nanjing - China (Graduate : 2019)
-- Undergraduate program, Mandarin | Beijing University of Chinese Medecine, Beijing - China (March 2015 - June 2016)  
+- Master D., NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Currently in second year of Master's Degree)
+- Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2023)
+- Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine, Nanjing - CN (Graduate : 2019)
+- Undergraduate program, Mandarin | Beijing University of Chinese Medecine, Beijing - CN (March 2015 - June 2016)  
 
 ## Work Experience  
 **Internship @ Sikana (Summer 2023, Paris - FR)**  
