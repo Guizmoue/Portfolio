@@ -1,7 +1,7 @@
 # NLP Student  
-Technical Skills: Python, Bash, XML, HTML5/CSS, C++  
-Machine Learning: Pandas, Numpy, Scikit-Learn, Matplotlib, HuggingFace, Pytorch  
-Languages Spoken : French (Native), English (CEFR-B2), Mandarin (HSK 5)  
+**Technical Skills :** Python, Bash, XML, HTML5/CSS, C++  
+**Machine Learning /Data Science :** Pandas, Numpy,  Scikit-Learn, Matplotlib, HuggingFace, Kaggle, Pytorch, Transformers, Tenserflow, Keras. 
+**Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
 ## Resume
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in NLP, at the intersection of linguistics and technology.
