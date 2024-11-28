@@ -1,7 +1,8 @@
 # NLP Student  
-**Technical Skills :** Python, Bash, XML, HTML5/CSS, C++  
-**Machine Learning /Data Science :** Pandas, Numpy,  Scikit-Learn, Matplotlib, HuggingFace, Kaggle, Pytorch, Transformers, Tenserflow, Keras. 
-**Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
+&#x1F331; **Technical Skills :** Python, Bash, XML/XSLT, HTML5/CSS  
+&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Spacy, NLTK  
+&#x1F527; **Tools :** Github, HuggingFace, Protégé, GrewMatch  
+&#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
 ## Resume
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in NLP, at the intersection of linguistics and technology.
@@ -14,10 +15,10 @@ During my academic studies, I first developed a deep interest in Mandarin and Ch
 
 ## Work Experience  
 **Internship @ Sikana (Summer 2023, Paris - FR)**  
-- Updating and chaptering of the Sikana video library. Video editing and voice-over.  
+- Writing educational content on the theme of Chinese culture. Updating and chaptering the Sikana video library. Video editing and voice-overs.  
 
 **Expert in Chinese linguistics @ Open Bee (Summer 2021, Annecy - FR)**  
-- Traditional and simplified Chinese OCR expertise.
+- Working in the Openbee R&D team, collecting and annotating data in Chinese, as part of the development of a specialised OCR for digitising corporate documents.
 
 ### Contacts
 Email : guilhem.schlosser@gmail.com  
