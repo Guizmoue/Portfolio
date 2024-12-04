@@ -1,6 +1,8 @@
-# NLP Student  
-&#x1F331; **Technical Skills :** Python, Bash, XML/XSLT, HTML5/CSS  
-&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Spacy, NLTK  
+# NLP Student
+&#x1F427; **Linux Distribution :** Kubuntu  
+&#x1F680; **Technical Skills :** Python, Bash, XML/XSLT, HTML5/CSS  
+&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers  
+&#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza  
 &#x1F527; **Tools :** Github, HuggingFace, Protégé, GrewMatch  
 &#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
