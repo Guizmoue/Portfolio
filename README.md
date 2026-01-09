@@ -1,5 +1,5 @@
 # NLP Student
-&#x1F427; **Linux Distribution :** Kubuntu  
+&#x1F427; **Linux Distribution :** Kubuntu 24.04  
 &#x1F680; **Technical Skills :** Python, Bash, XML/XSLT, HTML5/CSS  
 &#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers, LangChain  
 &#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza  
@@ -10,17 +10,20 @@
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in NLP, right at the crossroad of linguistics and computer science.
 
 ## Education  
-- Master D., NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Currently in second year of Master's Degree)
+- Master D., NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2026)
 - Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2023)
 - Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine, Nanjing - CN (Graduate : 2019)
 - Undergraduate program, Mandarin | Beijing University of Chinese Medecine, Beijing - CN (March 2015 - June 2016)  
 
 ## Work Experience  
+**Internship @ ERTIM - Inalco (June - December 2025, Paris - FR)**
+- Identify, analyze and monitor chinese narratives across newspaper using structural semantics (Actantial model) and NLP tools (LLM & BERTopic).
+
 **Internship @ Sikana (Summer 2023, Paris - FR)**  
 - Writing educational content on the theme of Chinese culture. Updating and chaptering the Sikana video library. Video editing and voice-overs.  
 
 **Expert in Chinese linguistics @ Open Bee (Summer 2021, Annecy - FR)**  
-- Working in the Openbee R&D team, collecting and annotating data in Chinese, as part of the development of a specialised OCR for digitising corporate documents.
+- Working at Openbee R&D team, collecting and annotating data in Chinese, as part of the development of a specialised OCR for digitising corporate documents.
 
 ### Contacts
 Email : guilhem.schlosser@gmail.com  
