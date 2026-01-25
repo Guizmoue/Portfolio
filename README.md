@@ -10,19 +10,19 @@
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in Natural Language Processing (NLP), right at the crossroad of linguistics and computer science.
 
 ## Education  
-- Master D., NLP | Institut National des Langues et Civilisations Orientales (Paris, FR), 2023-2026
-- Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales (Paris, FR), 2020-2023
-- Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine (Nanjing, CN), 2016-2019
-- Undergraduate program, Mandarin | Beijing University of Chinese Medecine (Beijing, CN), 2015-2016  
+- Master D., NLP | Institut National des Langues et Civilisations Orientales (Paris - FR, 2023 to 2026)
+- Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales (Paris - FR, 2020 to 2023)
+- Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine (Nanjing - CN, 2016 to 2019)
+- Undergraduate program, Mandarin | Beijing University of Chinese Medecine (Beijing - CN, 2015 to 2016)  
 
 ## Work Experience  
-**Internship @ ERTIM - Inalco (June - December 2025, Paris - FR)**
+**Internship @ Ertim Lab - Inalco (Paris - FR, May to December 2025)**
 - At the ERTIM (INALCO) research unit specializing in NLP, I identified, analyzed, and monitored Chinese narratives across newspapers using structural semantics (Actantial model) and NLP tools (LLM and BERTopic).
 
-**Volonteer @ Sikana (Summer 2023, Paris - FR)**  
+**Volonteer @ Sikana (Paris - FR, Summer 2023)**  
 - Writing educational content on the theme of Chinese culture. Updating and chaptering the Sikana video library. Video editing and voice-overs.  
 
-**Chinese Expert @ Open Bee (Summer 2021, Annecy - FR)**  
+**Chinese Expert @ Open Bee (Annecy - FR, Summer 2021)**  
 - Working at Openbee's R&D team, I participated in collecting and annotating Chinese data to develop an OCR dedicated to digitizing business documents.
 
 ### Contacts
