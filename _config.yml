@@ -1,1 +1,5 @@
-During my internship at the ERTIM (INALCO) research unit specializing in NLP, I identified, analyzed, and monitored Chinese narratives across newspapers using structural semantics (Actantial model) and NLP tools (LLM and BERTopic).
+title: Guilhem SCHLOSSER
+logo: /assets/img/headshot_circle.jpg
+description: Python Developer | Machine Learning | Machine Translation | GenAI
+show_downloads: true
+theme: jekyll-theme-minimal
