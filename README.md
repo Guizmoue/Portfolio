@@ -1,8 +1,8 @@
 # NLP Engineer
 &#x1F427; **Linux Distribution :** Kubuntu 24.04  
 &#x1F680; **Technical Skills :** Python, Bash, XML/XSLT, HTML5/CSS  
-&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers, LangChain  
-&#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza  
+&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers  
+&#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza, BERTopic, LangChain  
 &#x1F527; **Tools :** Github, HuggingFace, Protégé, GrewMatch  
 &#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
@@ -10,10 +10,10 @@
 During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in Natural Language Processing (NLP), right at the crossroad of linguistics and computer science.
 
 ## Education  
-- Master D., NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2026)
-- Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2023)
-- Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine, Nanjing - CN (Graduate : 2019)
-- Undergraduate program, Mandarin | Beijing University of Chinese Medecine, Beijing - CN (March 2015 - June 2016)  
+- Master D., NLP | Institut National des Langues et Civilisations Orientales (Paris, FR), 2023-2026
+- Bachelor D., Mandarin and NLP | Institut National des Langues et Civilisations Orientales (Paris, FR), 2020-2023
+- Bachelor D., Chinese Medecine | Nanjing University of Chinese Medecine (Nanjing, CN), 2016-2019
+- Undergraduate program, Mandarin | Beijing University of Chinese Medecine (Beijing, CN), 2015-2016  
 
 ## Work Experience  
 **Internship @ ERTIM - Inalco (June - December 2025, Paris - FR)**
