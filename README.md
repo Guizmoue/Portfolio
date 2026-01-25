@@ -19,10 +19,10 @@ During my academic studies, I first developed a deep interest in Mandarin and Ch
 **Internship @ ERTIM - Inalco (June - December 2025, Paris - FR)**
 - At the ERTIM (INALCO) research unit specializing in NLP, I identified, analyzed, and monitored Chinese narratives across newspapers using structural semantics (Actantial model) and NLP tools (LLM and BERTopic).
 
-**Internship @ Sikana (Summer 2023, Paris - FR)**  
+**Volonteer @ Sikana (Summer 2023, Paris - FR)**  
 - Writing educational content on the theme of Chinese culture. Updating and chaptering the Sikana video library. Video editing and voice-overs.  
 
-**Expert in Chinese linguistics @ Open Bee (Summer 2021, Annecy - FR)**  
+**Chinese Expert @ Open Bee (Summer 2021, Annecy - FR)**  
 - Working at Openbee's R&D team, I participated in collecting and annotating Chinese data to develop an OCR dedicated to digitizing business documents.
 
 ### Contacts
