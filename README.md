@@ -7,7 +7,7 @@
 &#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
 ## Resume
-During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in NLP, right at the crossroad of linguistics and computer science.
+During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in Natural Language Processing (NLP), right at the crossroad of linguistics and computer science.
 
 ## Education  
 - Master D., NLP | Institut National des Langues et Civilisations Orientales, Paris - FR (Graduate : 2026)
@@ -17,13 +17,13 @@ During my academic studies, I first developed a deep interest in Mandarin and Ch
 
 ## Work Experience  
 **Internship @ ERTIM - Inalco (June - December 2025, Paris - FR)**
-- Identify, analyze and monitor chinese narratives across newspaper using structural semantics (Actantial model) and NLP tools (LLM & BERTopic).
+- At the ERTIM (INALCO) research unit specializing in NLP, I identified, analyzed, and monitored Chinese narratives across newspapers using structural semantics (Actantial model) and NLP tools (LLM and BERTopic).
 
 **Internship @ Sikana (Summer 2023, Paris - FR)**  
 - Writing educational content on the theme of Chinese culture. Updating and chaptering the Sikana video library. Video editing and voice-overs.  
 
 **Expert in Chinese linguistics @ Open Bee (Summer 2021, Annecy - FR)**  
-- Working at Openbee R&D team, collecting and annotating data in Chinese, as part of the development of a specialised OCR for digitising corporate documents.
+- Working at Openbee's R&D team, I participated in collecting and annotating Chinese data to develop an OCR dedicated to digitizing business documents.
 
 ### Contacts
 Email : guilhem.schlosser@gmail.com  
