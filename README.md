@@ -1,13 +1,13 @@
 # NLP Engineer
 &#x1F427; **Linux Distribution :** Kubuntu 24.04  
 &#x1F680; **Programming Languages :** Python, Bash, XML/XSLT, HTML5/CSS  
-&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers  
-&#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza, BERTopic, LangChain  
+&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers, Pytorch  
+&#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza, BERTopic, LangChain, Ollama  
 &#x1F527; **Tools :** Github, HuggingFace, Protégé, GrewMatch  
 &#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
 
 ## Resume
-During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Aterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in Natural Language Processing (NLP), right at the crossroad of linguistics and computer science.
+During my academic studies, I first developed a deep interest in Mandarin and Chinese culture, which I had the opportunity to explore while studing in China. Afterward coming from scientific background, I was naturally drawn to computer science, where I discovered the perfect synergy in Natural Language Processing (NLP), right at the crossroad of linguistics and computer science.
 
 ## Education  
 - Master D., NLP | Institut National des Langues et Civilisations Orientales (Paris - FR, 2023 to 2026)
