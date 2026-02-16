@@ -30,4 +30,4 @@ Email : guilhem.schlosser@gmail.com
 Linkedin : [my linkedin profil](https://www.linkedin.com/in/guilhem-schlosser-88a5b31b7/)  
 Github : [my github profil](https://github.com/Guizmoue)  
 
-Feel free to contact me for further information about my experience, skills, or projects.
+Feel free to contact me for further information about my experiences, skills, or projects.
