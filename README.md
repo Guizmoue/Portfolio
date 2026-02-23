@@ -1,7 +1,7 @@
 # NLP Engineer
 &#x1F427; **Linux Distribution :** Kubuntu 24.04  
 &#x1F680; **Programming Languages :** Python, Bash, XML/XSLT, HTML5/CSS  
-&#x1F4BE; **Machine Learning :** Pandas, Numpy,  Scikit-Learn, Matplotlib, Transformers, Pytorch  
+&#x1F4BE; **Machine Learning :** Pandas, Numpy, Scikit-Learn, Matplotlib, Streamlit, Pytorch.  
 &#x2B50; **Natural Language Processing :** Spacy, NLTK, Stanza, BERTopic, LangChain, Ollama  
 &#x1F527; **Tools :** Github, HuggingFace, Protégé, GrewMatch  
 &#x1F4AC; **Languages Spoken :** French (Native), English (CEFR-B2), Mandarin (HSK 5)  
